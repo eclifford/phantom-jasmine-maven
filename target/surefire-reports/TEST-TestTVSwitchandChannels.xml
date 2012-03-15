@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites>
-<testsuite name="Test TV Switch and Channels" errors="0" tests="3" failures="0" time="0.006" timestamp="2012-03-15T14:06:18">
+<testsuite name="Test TV Switch and Channels" errors="0" tests="3" failures="0" time="0.006" timestamp="2012-03-15T14:24:32">
   <testcase classname="Test TV Switch and Channels" name="turn it on" time="0.005"></testcase>
-  <testcase classname="Test TV Switch and Channels" name="turn it on, check channel is &apos;BBC 1&apos;, change channel to &apos;ITV 1&apos;" time="0.001"></testcase>
-  <testcase classname="Test TV Switch and Channels" name="change channel to &apos;RAI 1&apos; while off" time="0"></testcase>
+  <testcase classname="Test TV Switch and Channels" name="turn it on, check channel is &apos;BBC 1&apos;, change channel to &apos;ITV 1&apos;" time="0"></testcase>
+  <testcase classname="Test TV Switch and Channels" name="change channel to &apos;RAI 1&apos; while off" time="0.001"></testcase>
 </testsuite>
 </testsuites>
