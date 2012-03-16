@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<testsuites>
-<testsuite name="Test TV Switch" errors="0" tests="1" failures="0" time="0.001" timestamp="2012-03-15T14:05:33">
-  <testcase classname="Test TV Switch" name="turn it off" time="0.001"></testcase>
-</testsuite>
-</testsuites>
