@@ -31,6 +31,10 @@ describe("why eric is cool", function() {
     it("he is", function() {
         return true;
     });
+
+    it("yes", function() {
+        return true;
+    });
 });
 
 
