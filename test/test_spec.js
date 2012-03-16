@@ -50,7 +50,7 @@ describe("Test TV Switch", function(){
     });
 
     it("turn it off", function(){
-        expect(myTv.isOn()).toEqual(false);
+        expect(myTv.isOn()).toEqual(true);
         expect(myTv.turnOff()).toEqual(false);
         expect(myTv.isOn()).toEqual(false);
         expect(myTv.turnOn()).toEqual(true);
