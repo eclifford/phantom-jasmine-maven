@@ -27,6 +27,13 @@ describe("Test TV Switch and Channels", function(){
     });
 });
 
+describe("why eric is cool", function() {
+    it("he is", function() {
+        return true;
+    };
+}
+
+
 describe("Test TV Switch", function(){
     var myTv = null;
 
