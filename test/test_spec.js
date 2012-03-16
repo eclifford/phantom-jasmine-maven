@@ -35,6 +35,10 @@ describe("why eric is cool", function() {
     it("yes", function() {
         expect(true).toEqual(true);
     });
+
+    it("maybe", function() {
+        expect(true).toEqual(true);
+    });
 });
 
 
