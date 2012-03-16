@@ -1,4 +1,4 @@
-describe("Test TV Switch and Channels", function(){
+describe("Test TV Switch and Channelsss", function(){
     var myTv = null;
     
     beforeEach(function() {
