@@ -29,11 +29,11 @@ describe("Test TV Switch and Channels", function(){
 
 describe("why eric is cool", function() {
     it("he is", function() {
-        return true;
+        expect(true).toEqual(true);
     });
 
     it("yes", function() {
-        return true;
+        expect(true).toEqual(true);
     });
 });
 
