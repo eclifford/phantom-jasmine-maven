@@ -49,6 +49,10 @@ describe("Test TV Switch", function(){
         myTv = Tv();
     });
 
+    it("should be what", function() {
+        return true;
+    });
+
     it("turn it off", function(){
         expect(myTv.isOn()).toEqual(true);
         expect(myTv.turnOff()).toEqual(false);
